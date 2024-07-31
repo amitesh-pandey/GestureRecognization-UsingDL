@@ -31,15 +31,3 @@ A 3D Convolutional Neural Network (CNN) is a deep learning algorithm that uses 3
 ### Convolutional Neural Network - Recurrent Neural Network
 
 A CNN-RNN model is a type of neural network architecture that combines Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) to process sequential data such as speech, text, or time series data. The CNNs can extract local features from the input data, while RNNs can capture long-term dependencies and temporal dynamics. The output of the CNNs is fed into the RNNs to generate predictions based on the learned representations. This model has been used for tasks such as speech recognition, language translation, and video analysis.
-
-## Results
-
-We have achieved an accuracy of 98% on the test data.
-
-## Contact
-
-Created by [@sukhijapiyush] - feel free to contact me!
-
-## License
-
-This project is open source and available under the [GNU General Public License v3.0].
